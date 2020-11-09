@@ -17,7 +17,6 @@ import ClientForm from '@/components/ClientForm'
 import Modal from '@/components/Modal'
 export default {
   name: 'App',
-  title: 'Some Title',
   components: {
     Modal,
     ClientForm,
