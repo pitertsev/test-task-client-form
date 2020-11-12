@@ -40,6 +40,9 @@
 * Обратите особое внимание на UI/UX и визуальный вид формы.
 
 ## Настройки выполненного задания
+### Ссылка на GitHub Pages
+[https://pitertsev.github.io/test-task-client-form/](https://pitertsev.github.io/test-task-client-form/)
+
 ### Клонировать репозиторий
 ```
 git clone [url repo]
